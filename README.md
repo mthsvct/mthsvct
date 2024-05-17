@@ -93,10 +93,12 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 </div>
 
-## *Errare Humanum Est*
+<!-- ## *Errare Humanum Est*
 
 <div style="display:flex; flex-grow:1;">
 
 ![Errare Humanum Est](https://spotify-recently-played-readme.vercel.app/api?user=gk8pr16nh3h25zfmi4fa7z81b&count=5)
 
-</div>
+</div> -->
+
+*Errare Humanum Est.*
