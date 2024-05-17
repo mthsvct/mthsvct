@@ -21,7 +21,7 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 ## My Skills
 
-### Linguagens
+### Languages
 
 <div style="display:flex">
 
@@ -31,12 +31,11 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <img height="25" width="25" src="https://cdn.simpleicons.org/c/black/white" />
 
-
 </div>
 
 
 
-### Frameworks e Bibliotecas
+### Frameworks
 
 <div style="display:flex">
 
@@ -51,7 +50,7 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 </div>
 
 
-### Banco de Dados
+### Databases
 
 <div style="display:flex">
 
@@ -67,7 +66,7 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 
 
-### Outras Tecnologias
+### Other Technologies
 
 <div style="display:flex">
 
@@ -86,7 +85,7 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 </div>
 
 
-## Redes
+## Social
 
 <div style="display:flex">
 
@@ -96,4 +95,8 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 ## *Errare Humanum Est*
 
-![Errare Humanum Est](https://spotify-recently-played-readme.vercel.app/api?user=gk8pr16nh3h25zfmi4fa7z81b)
+<div style="display:flex; flex-grow:1;">
+
+![Errare Humanum Est](https://spotify-recently-played-readme.vercel.app/api?user=gk8pr16nh3h25zfmi4fa7z81b&count=5)
+
+</div>
