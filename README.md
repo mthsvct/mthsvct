@@ -25,11 +25,11 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <div style="display:flex">
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/python/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/javascript/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/c/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/c/black/white" />
 
 
 </div>
@@ -40,13 +40,13 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <div style="display:flex">
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/react/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/django/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/django/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" alt="FastAPI" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/fastapi/black/white" alt="FastAPI" />
 
 </div>
 
@@ -55,11 +55,11 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <div style="display:flex">
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/postgresql/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/black/white" alt="MySQL" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/mysql/black/white" alt="MySQL" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/black/white" alt="MongoDB" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/mongodb/black/white" alt="MongoDB" />
 
 </div>
 
@@ -71,17 +71,17 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <div style="display:flex">
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/docker/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/amazonaws/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/figma/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/figma/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/linux/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/linux/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/postman/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/postman/black/white" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
 
 </div>
 
@@ -90,7 +90,7 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <div style="display:flex">
 
-<a href="https://www.linkedin.com/in/mthsvct/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white" alt="FastAPI" /></a>
+<a href="https://www.linkedin.com/in/mthsvct/"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/black/white" alt="FastAPI" /></a>
 
 </div>
 
