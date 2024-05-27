@@ -72,7 +72,7 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <img height="25" width="25" src="https://cdn.simpleicons.org/docker/black/white" />
 
-<img height="25" width="25" src="https://cdn.simpleicons.org/amazonaws/black/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/amazonwebservices/black/white" />
 
 <img height="25" width="25" src="https://cdn.simpleicons.org/figma/black/white" />
 
@@ -100,5 +100,5 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 ![Errare Humanum Est](https://spotify-recently-played-readme.vercel.app/api?user=gk8pr16nh3h25zfmi4fa7z81b&count=5)
 
 </div> -->
-
+---
 *Errare Humanum Est.*
