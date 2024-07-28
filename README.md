@@ -80,8 +80,6 @@ Hi, I'm Matheus Victor, Fullstack developer from Ceará, Bra**s**il.
 
 <img height="25" width="25" src="https://cdn.simpleicons.org/postman/black/white" />
 
-<img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
-
 </div>
 
 
